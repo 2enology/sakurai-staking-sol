@@ -1,0 +1,36 @@
+<svg width="26" height="49" viewBox="0 0 26 49" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_f_256_16)">
+<circle cx="12" cy="12.5" r="7.5" stroke="url(#paint0_angular_256_16)" stroke-linejoin="round"/>
+</g>
+<circle cx="12" cy="12.5" r="7.5" stroke="url(#paint1_angular_256_16)" stroke-linejoin="round"/>
+<rect width="24" height="24" transform="matrix(-1 0 0 1 26 25)" fill="url(#pattern0_256_16)"/>
+<defs>
+<filter id="filter0_f_256_16" x="0" y="0.5" width="24" height="24" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_256_16"/>
+</filter>
+<pattern id="pattern0_256_16" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_256_16" transform="translate(0 -0.0208333) scale(0.0416667)"/>
+</pattern>
+<radialGradient id="paint0_angular_256_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11.792 11.9504) rotate(111.606) scale(7.58238)">
+<stop offset="0.162484" stop-color="#373639" stop-opacity="0"/>
+<stop offset="0.264892" stop-color="#B990FF"/>
+<stop offset="0.333333" stop-color="#6AB9FF"/>
+<stop offset="0.388415" stop-color="#B8FF96"/>
+<stop offset="0.450491" stop-color="#FAD7A1"/>
+<stop offset="0.507443" stop-color="#FE90BE"/>
+<stop offset="0.646245" stop-color="#373639" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_angular_256_16" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11.792 11.9504) rotate(90) scale(7.58238)">
+<stop offset="0.162484" stop-color="#373639" stop-opacity="0"/>
+<stop offset="0.264892" stop-color="#B990FF"/>
+<stop offset="0.333333" stop-color="#6AB9FF"/>
+<stop offset="0.388415" stop-color="#B8FF96"/>
+<stop offset="0.450491" stop-color="#FAD7A1"/>
+<stop offset="0.507443" stop-color="#FE90BE"/>
+<stop offset="0.646245" stop-color="#373639" stop-opacity="0"/>
+</radialGradient>
+<image id="image0_256_16" width="24" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAZCAYAAAArK+5dAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANySURBVHgB7VRLbxtVFD5nHh7PeBw3fkCcVmqJTJBSJIQqEBKLGHZdgNSFYcGWTVkjdsg24hfwC5BYsPASBMsOKhGLKpQieVqZQN04Gaf1azye8bzu3MvYTUrcQhTEhkW+zT2aO/d833fuORfhlGAM8ChGBHbac3hyQgYNaHBrMOIyOz4HUJrvlcYdCtsAjeVlWmlWGNSRzX8+HQHDapy8DMBBWxPgUk/I7YaiJCDPu4R73koyNhRoOkiGQAjZaQtRacUmUKlQRHyGhF9UPRMSkxaawrSnS5YiJSMrVOPkskgxJXqhLMdczARpak3FyV4gqC6BgQPw25dbUNz+Fn54yolwXHmjAdzly8Af7BaTTh4UFKlCkp4MYZA738W3ZCNb9HsYmNHkjs9ISxGlruv43GiXoDETVq4ydqPGjjt5UqJqlXFzwheHydV8MmULo/TFF/TSK4rx2coE17lHyo+cIRlen3l7g5Gybw6YHTq3MrK6JfGpvj3xYx/g2wc3yXuNRrTggMXqtTJwug6JBJeVI9tS86/fez/zXPv6cCh/9weX+0S6MB3l8nZUGHD0/CgJhU4BtnTv4u29TkmVxGANV/wH/JgYGxvRoXD2hKBWBbyktQUpk02E46lsrvNvet7SdXr/5Y99K9dckg2/mPY9WcCIBISJRMVhZHNr2WxTlBL4yDDpnjwGq+1gd9tCNmtBxL8cxHVH74HFE46JIlWFXpD7fPl3/lPBCe6wtD91mDw1I9MvynKUgH1GQUUykQXTNnkvCFEUKO1a3ejhJEXndUdcvORmU0PFHXOqXMJobfVaYURvpYf0JioJN6DE6fuCV3rnXPASaLT2dSxI13C0vMwlgiLPRw7vySn20E0xcu4ebbnus1202k2jIQCT+WGU9xLXlIn1hdsb2AEQDzIZV//pSlB/FyNYRFSJez+exHCj3ENnfR1HDZVq8P0CwdxLuVwVNjevJGCcTrx64bVf+5ODtzvjTh+m6QBa3wR1rU7gHzCbHZy/HbPRx6Nv7KhMs9YETQOq61+R7k4rMAZ3dzr6zwfWfs+H1iSo3ahFcAIOez6e0MfrPD52B9zjpT7biGB1O+z27265/n283WuGsKn97fj/G+BTMX5YqZbHlvXLxhtLZr1ep4cl+E8kC7h69YOlSuUjFU54ac9whjP8z/AnX/G9Ou5ZFyUAAAAASUVORK5CYII="/>
+</defs>
+</svg>
